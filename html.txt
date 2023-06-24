@@ -1,0 +1,14 @@
+<html>
+<head>
+</head>
+<body>
+<!--Hi learn hyperlink tag-->
+<a herf="https://netflix.com">
+watch latest movies
+</a>
+<br>
+<a herf="mailto:myself6969@gmail.com"
+mail of myself
+</a>
+</body>
+</html>
